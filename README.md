@@ -11,8 +11,7 @@
 
 
 1. 내가 배운 기술들
-[!markdown](http://img.shields.io/badge/language-swift-orange&logo=markdown&logoColor=red)
-[!markdown](https://img.shields.io/badge/developer-markdown-red)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 2. 내가 배울 기술들
 3. 내가 만들어본 프로젝트
 4. 내가 참여한 프로젝트
