@@ -7,8 +7,8 @@
 [homepage]: http://4wesome.com "Go 내 홈페이지"
 
 이메일주소 : <neoescape@gmail.com>
-내 블로그<BR />
-
+<BR />
+(./gh.jpg)
 
 1. 내가 배운 기술들<br />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
