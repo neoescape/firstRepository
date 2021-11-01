@@ -1,2 +1,2 @@
 # firstRepository
-완전 처음
+푸시테스트 
