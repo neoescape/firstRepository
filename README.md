@@ -6,7 +6,7 @@
 
 [homepage]: http://4wesome.com "Go 내 홈페이지"
 
-이메일주소<BR />
+이메일주소 : <neoescape@gmail.com>
 내 블로그<BR />
 
 
