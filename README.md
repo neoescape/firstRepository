@@ -11,6 +11,7 @@
 
 
 1. 내가 배운 기술들
+[!markdown](http://img.shields.io/badge/language-swift-orange&logo=markdown&logoColor=red)
 [!markdown](https://img.shields.io/badge/developer-markdown-red)
 2. 내가 배울 기술들
 3. 내가 만들어본 프로젝트
